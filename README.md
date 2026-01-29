@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
   <meta charset="UTF-8" />
@@ -86,7 +85,7 @@
         查看项目、提交 Issue 或发起 Pull Request！
       </p>
       <p>
-        联系邮箱：<a href="mailto:hello@pipicatgo.com">hello@pipicatgo.com</a>
+        联系邮箱：<a href="mailto:helloxubiao@gmail.com">hello@pipicatgo.com</a>
       </p>
     </div>
 
